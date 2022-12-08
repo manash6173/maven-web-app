@@ -1,5 +1,8 @@
 <html>
 <body>
-<h2>Hello World Manash!</h2>
+	<center>
+		<h2>Hello, Dockerized tomcat maven web application running
+			successfully</h2>
+	</center>
 </body>
 </html>
